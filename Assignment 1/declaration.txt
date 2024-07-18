@@ -1,0 +1,12 @@
+I have read the CSE department’s anti-cheating policy available at https://www.cse.
+iitk.ac.in/pages/AntiCheatingPolicy.html. I understand that plagiarism is a severe
+offense. I have solved this assignment myself without indulging in any plagiarism.
+If my submission is found to be plagiarized from the internet, fellow students, etc.,
+then strict action can be taken against me. Saugat Kannojia 210943
+
+
+References:-
+1. man pages
+2. https://www.davekb.com/browse_programming_tips:windows_isreg_isdir:txt 
+3. https://faculty.cs.niu.edu/~hutchins/csci480/forkexm1.htm
+4. https://techoverflow.net/2013/08/21/how-to-get-filesize-using-stat-in-cc
